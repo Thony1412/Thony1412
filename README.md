@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=30&width=500&lines=Aspiring+Software+Engineer;Computer+Science+Student;WELCOME❤️)](https://git.io/typing-svg)
+
+
 - 🌱Don't compare your day 1 to someone's day 1000.
 
 ## Technologies
