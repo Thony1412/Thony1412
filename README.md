@@ -13,5 +13,5 @@
 ![Windows](https://img.icons8.com/color/48/windows-10.png)
 
 ## BADGES
-![intro_to_cybersecurity](https://images.credly.com/size/300x300/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
+![intro_to_cybersecurity](https://images.credly.com/size/140x140/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
 
