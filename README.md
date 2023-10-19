@@ -12,6 +12,6 @@
 ![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png)
 ![Windows](https://img.icons8.com/color/48/windows-10.png)
 
-##BADGES
+## BADGES
 ![intro_to_cybersecurity](https://www.credly.com/badges/a1777e01-26db-47ce-8100-cda3921bf4db/public_url)
 
