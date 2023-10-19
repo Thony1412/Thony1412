@@ -13,5 +13,5 @@
 ![Windows](https://img.icons8.com/color/48/windows-10.png)
 
 ## BADGES
-![intro_to_cybersecurity](https://www.credly.com/badges/a1777e01-26db-47ce-8100-cda3921bf4db/public_url)
+![intro_to_cybersecurity](https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
 
