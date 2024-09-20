@@ -9,7 +9,7 @@
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JavsScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![Python](https://upload.wikimedia.org/48/000000/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
+![Python](https://upload.wikimedia.org/color/48/000000/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
 ![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png)
 ![Windows](https://img.icons8.com/color/48/windows-10.png)
 
