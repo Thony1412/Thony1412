@@ -9,7 +9,6 @@
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JavsScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-//![Python](https://user-images.githubusercontent.com/72861332/231348110-6a335e2d-a028-4185-b624-f15bbb255f98.png)
 ![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png)
 ![Windows](https://img.icons8.com/color/48/windows-10.png)
 
