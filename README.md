@@ -8,7 +8,7 @@
 
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/48px-Bootstrap_logo.svg.png)
+![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/50px-Bootstrap_logo.svg.png)
 ![JavsScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png)
 ![Windows](https://img.icons8.com/color/48/windows-10.png)
