@@ -4,7 +4,7 @@
 
 - 🌱Don't compare your day 1 to someone's day 1000.
 
-## Technology and Tools
+## Technologies
 
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
