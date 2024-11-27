@@ -11,7 +11,7 @@
 ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/51px-Bootstrap_logo.svg.png)
 ![JavsScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![React](https://user-images.githubusercontent.com/72861332/231347664-8584c978-ff17-4721-af0b-031ff40edfb5.png)
-![Next,js](https://github.com/user-attachments/assets/48/2e78f228-5f25-45ee-b850-9f7eb72506b5)
+<img src="https://github.com/user-attachments/assets/ad49d21c-0d2c-4eef-a872-0ce7e12f7689" width=45 height=45>
 ![Git](https://img.icons8.com/color/48/git.png)
 ![GitHub](https://img.icons8.com/stickers/48/000000/github.png)
 ![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png)
